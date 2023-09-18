@@ -16,3 +16,7 @@ Welcome to the JS-Password-Gen repository! This small yet powerful project is de
 3. Funny Passwords: Looking for something whimsical or fun? Click the "Funny" option, and PWGenius will create a password that's sure to make you smile. Perfect for non-critical accounts or as a conversation starter!
 
 4. Copy to Clipboard: Easily copy any generated password to your clipboard with the click of a button, making it convenient to use in your desired applications.
+
+5. Cross-Browser Compatibility: Project is designed to work smoothly across a wide range of web browsers, including Chrome, Firefox, Safari, Edge, and more.
+
+6. Adaptive Layout for Various Devices: JS-Password-Gen features an adaptive layout that adjusts seamlessly to different screen sizes and devices. 
